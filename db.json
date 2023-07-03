@@ -15,6 +15,22 @@
       "place": "Vijayawada",
       "batch_name": "WEB-18",
       "profession": "FSD"
+    },
+    {
+      "id": 3,
+      "name": "Arnab",
+      "age": 22,
+      "place": "Kolkata",
+      "batch_name": "WEB-22",
+      "profession": "Frontend"
+    },
+    {
+      "id": 4,
+      "name": "Chunnu",
+      "age": 24,
+      "place": "Barasat",
+      "batch_name": "WEB-24",
+      "profession": "Student"
     }
   ]
 }
